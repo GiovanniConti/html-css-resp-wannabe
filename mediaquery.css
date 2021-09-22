@@ -50,6 +50,11 @@
         font-size: 10px;
     }
 
+    #lezioni,
+    #why{
+        background-color: rgb(241, 239, 202);
+    }
+
     #lezioni .row>.left>img,
     #lezioni .row>.right>img{
         width: 100%;
